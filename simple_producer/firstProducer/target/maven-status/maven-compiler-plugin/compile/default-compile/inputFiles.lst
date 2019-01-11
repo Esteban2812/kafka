@@ -1,1 +1,7 @@
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/kafka/serializer.java
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/util/ConvertidorJson.java
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/kafka/custom_serializer.java
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/kafka/custom_producer.java
 /home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/kafka/App.java
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/entidades/Producto.java
+/home/cambiante/kafka/simple_producer/firstProducer/src/main/java/com/isaleesai/util/ProducerT.java

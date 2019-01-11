@@ -1,1 +1,9 @@
 com/isaleesai/kafka/App.class
+com/isaleesai/util/ConvertidorJson.class
+com/isaleesai/kafka/custom_producer$1.class
+com/isaleesai/kafka/custom_producer.class
+com/isaleesai/kafka/custom_producer$2.class
+com/isaleesai/kafka/custom_serializer.class
+com/isaleesai/util/ProducerT.class
+com/isaleesai/entidades/Producto.class
+com/isaleesai/kafka/serializer.class
